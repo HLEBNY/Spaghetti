@@ -1,0 +1,2 @@
+# Spaghetti
+Multiversion minecraft resourcepacks
